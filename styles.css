@@ -1,6 +1,6 @@
 body {
 	background: #35363a;
-	color: whitesmoke;
+	color: Rosybrown;
 	font-family: 'Comfortaa', cursive;
 	text-align: center;
 	margin: 7em;
@@ -8,7 +8,7 @@ body {
 }
 
 h2 {
-	color: cyan
+	color: #0B7371
 }
 
 li {
@@ -27,7 +27,7 @@ img {
 
 a {
 	text-decoration: none;
-	color: hotpink
+	color: #BCDED7
 }
 
 .bookmark-container {
