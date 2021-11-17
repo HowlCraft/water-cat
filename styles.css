@@ -20,7 +20,8 @@ li {
 img {
 	float: left;
 	margin-left: 10%;
-	max-width: 10%;
+	max-width: 20%;
+	height=20em;
 	border-radius: 2%;
 }
 
