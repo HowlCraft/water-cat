@@ -8,7 +8,8 @@ body {
 }
 
 h2 {
-	color: #0B7371
+	color: #0B7371;
+	text-align: center;
 }
 
 li {
@@ -38,5 +39,5 @@ a {
 .bookmarks {
 	width: 20%;
     display: inline-block;
-    padding: 2em;
+    padding: 10em;
 }
